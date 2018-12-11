@@ -1,2 +1,2 @@
-# ubuntu-
+# github-
 practical exam
